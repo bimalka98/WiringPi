@@ -1,3 +1,7 @@
+> This fork was made as a "backup" of the WringPi version that I used  during my internship @ LE Robotics (Pvt.) Ltd. It was used as a third party library of one of the projects that I involved in there. ❤🌱
+
+---
+
 WiringPi (Unofficial Mirror/Fork)
 =================================
 
